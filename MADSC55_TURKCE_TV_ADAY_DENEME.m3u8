@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1 group-title="📺 HABER",TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TJK TV
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",BRTV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Çiftçi TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",DİM TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ETV Kayseri (720p)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Euro D (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="📺 HABER",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 7 Avrupa (720p) [Not 24/7]
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KANAL 58 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 23 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 26 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal Firat (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kent Türk TV (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Konya Olay TV (720p)
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Lalegul TV (1080p)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",MaviKaradeniz (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Mercan TV (576p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Sat7 Türk (1080p)
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Sun RTV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Tempo TV (720p)
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ATV Alanya (1080p)
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 group-title="🕌 DİNİ",Diyanet TV (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Edessa TV (1080p)
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="📺 HABER",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 group-title="📺 HABER",Haber61 TV (720p) [Not 24/7]
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Hunat TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 12 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 15 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 23 (1080p)
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal V (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Luys TV (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Sat7 Türk (1080p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Sercem TV (1080p)
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TV 41 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Ekoturk (720p)
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",EURO D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kanal 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="📺 HABER",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 group-title="⚽ SPOR",A SPOR - TR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TAY TV
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TJK TV
+https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Waypoint TV (1080p)
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Damar
+https://yayin.santraltr.com/hls/damar.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Dost
+https://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Güçlü TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Mavi Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Sıla
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TopPop
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Viva TV
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="🎧 MÜZİK",BIZ Music
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KISS KISS ITALIA
+https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w442562559.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",M2O TV DJ STATION
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🎧 MÜZİK",Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Stingray Urban Beat (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Ócko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Ócko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Ócko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",BALKAN TÜRK
+https://live.euromediacenter.com/balkanturktv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",BRTV KARABÜK
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",BRÜKSEL TÜRK
+https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ETV KAYSERİ
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="📺 HABER",HABER61 TRABZON
+https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KANAL 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KANAL 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KANAL 34 İSTANBUL
+https://live.euromediacenter.com/kanal34/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",KONYA OLAY TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",MERCAN TV ADIYAMAN
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",SUN RTV MERSİN
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",TV 41 KOCAELİ
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Vuslat TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",İZMİR TIME 35 TV
+https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL",Love Nature (1080p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
