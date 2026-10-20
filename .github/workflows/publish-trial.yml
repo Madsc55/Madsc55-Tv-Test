@@ -1,0 +1,29 @@
+name: Publish Turkish TV Trial Playlist
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/publish-trial.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download approved test playlist artifact
+        env:
+          ARTIFACT_URL: "https://sdmntprnortheu.oaiusercontent.com/files/00000000-0ec4-81f4-8a62-ed2c52c2c679/raw?se=2026-10-20T15%3A23%3A14Z&sp=r&sv=2026-02-06&sr=b&scid=537b0319-a255-5e57-87c7-567a4492888d&skoid=82a3371f-2f6c-4f81-8a78-2701b362559b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-10-19T21%3A27%3A04Z&ske=2026-10-20T21%3A27%3A04Z&sks=b&skv=2026-02-06&sig=sn0Awv03Z7hjVivkt878U%2Bx8TtKqPGnDyv3BsPG1Ixc%3D"
+        run: |
+          curl --fail --location --silent --show-error --max-time 60 "$ARTIFACT_URL" -o trial.zip
+          unzip -p trial.zip MADSC55_TURKCE_TV_ADAY_DENEME.m3u8 > MADSC55_TURKCE_TV_ADAY_DENEME.m3u8
+          test "$(grep -c '^#EXTINF:' MADSC55_TURKCE_TV_ADAY_DENEME.m3u8)" -eq 151
+          rm trial.zip
+      - name: Publish trial M3U8 only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MADSC55_TURKCE_TV_ADAY_DENEME.m3u8
+          git commit -m 'Publish 151 A/V-tested trial channels' || exit 0
+          git push
